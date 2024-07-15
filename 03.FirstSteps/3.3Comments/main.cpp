@@ -1,19 +1,18 @@
-//One line comment
+//Una linea de comentaria
 
-//This brings in the iostream library
+//Nos trae la librería de entrada/salida iostream
 #include <iostream>
 
 /*
-    This is a block comment that englobes multiple
-    lines of text
+   Comentario multilinea
 */
 
 
 
 
 int main(){
-    //This is going to print "Hello World" to the console
-    std::cout << "Hello World!" << std::endl;
+    //Esto imprime Hola mundo!
+    std::cout << "Hola Mundo!" << std::endl;
     return 0;
-    //Program ends here
+    //Programa termina aquí
 }
